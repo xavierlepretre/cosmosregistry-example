@@ -1,8 +1,8 @@
-package example
+package checkers
 
 import "cosmossdk.io/collections"
 
-const ModuleName = "example"
+const ModuleName = "checkers"
 
 var (
 	ParamsKey  = collections.NewPrefix(0)

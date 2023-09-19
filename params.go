@@ -1,4 +1,4 @@
-package example
+package checkers
 
 // DefaultParams returns default module parameters.
 func DefaultParams() Params {
